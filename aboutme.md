@@ -17,8 +17,9 @@ Bachelor’s Degree in Telecommunications Engineering      |               May 2
 
 
 ### Experience
-*Barcelona children’s Hospital Sant Joan de Déu*                    |            Barcelona, Spain
-/Data Manager and Bioengineer/                                        |                 Dec  2023 - Present
+*Barcelona children’s Hospital Sant Joan de Déu*                    |            Barcelona, Spain 
+
+Data Manager and Bioengineer                                        |                 Dec  2023 - Present
 - Initiated the digital transformation of Chronic complex and palliative care service. 
 - Data project planning and guidance to the clinic team. 
 - Telemonitoring project planning. 
