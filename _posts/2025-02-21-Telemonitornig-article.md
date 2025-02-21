@@ -11,6 +11,8 @@ author: Bill Smith
 ---
 
 {: .box-success}
+## My Mission, My Impact
+
 I would love to share with you the article I wrote recently about my [telemonitoring project](https://www.fullsdenginyeria.cat/cap-la-telemedicina-davantguarda-monitoritzacio-continua-domicili-pacients-cronics-complexos-i).
 
 **Here is some bold text**
