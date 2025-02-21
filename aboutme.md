@@ -4,7 +4,7 @@ title: About me
 subtitle: A brief personal description
 ---
 
-My name is Ferran Aran, I am from Lleida and I love learning new skills. Have a look at my background below!
+I am Alba, a professional dedicated to managing and analyzing clinical and medical data. Currently, I am part of a palliative care and complex chronic pediatric patient care team. My work focuses on bringing innovation and technology to healthcare professionals and, consequently, to patients. I use data as a tool for structural service improvement and strive to integrate AI into clinical decision-making.
 
 ### Education
 
